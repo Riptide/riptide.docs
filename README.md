@@ -32,9 +32,3 @@ __Note that__ this guide details the usage of the reference implementation which
           .dispatchProcessesOnSingleThread()
           .build();
        
-
-
-
-
-
-[mavenlink]:https://github.com/Riptide/riptide.docs/wiki
